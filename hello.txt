@@ -1,1 +1,1 @@
-Hello Artifactory and SonarQube Mend
+Hello Artifactory and SonarQube.
